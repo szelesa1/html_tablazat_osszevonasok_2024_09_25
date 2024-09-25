@@ -1,0 +1,24 @@
+body{
+    background-color: grey;
+}
+
+table, td{
+    border: 1px black solid;
+    border-collapse: collapse ;
+}
+
+.kék{
+    background-color: blue;
+}
+
+#piros{
+    background-color: red;
+}
+
+.zöld{
+    background-color: green;
+}
+
+#sárga{
+    background-color: yellow;
+}
